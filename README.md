@@ -1,6 +1,6 @@
 # Traveling salesman problem
 
-This is a simple example how to solve the [Traveling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) with an genetic algorithm
+This is a simple example how to solve the [Traveling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) with an genetic algorithm.
 
 Please write an e-mail to `DanielKampert@kampis-elektroecke.de` if you have any questions
 
