@@ -6,10 +6,10 @@ Please write an e-mail to `DanielKampert@kampis-elektroecke.de` if you have any 
 
 ## History
 
-| **Version**  | **Description**                                | **Date**       |
+| **Version**  | **Description**             | **Date**       |
 |:---------:|:------------------------------:|:----------:|
 | 1.0       | Initial release                | 28.09.2018 |
 
 ## Maintainer
 
-- [Daniel Kampert](DanielKampert@kampis-elektroecke.de)
+- [Daniel Kampert](mailto:DanielKampert@kampis-elektroecke.de)
